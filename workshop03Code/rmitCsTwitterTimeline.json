@@ -1,0 +1,3536 @@
+{
+  "data": [
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "NanGaoRMIT",
+            "id": "915167646240325632"
+          },
+          {
+            "start": 109,
+            "end": 118,
+            "username": "flosalim",
+            "id": "39697728"
+          },
+          {
+            "start": 129,
+            "end": 139,
+            "username": "MsaiedurR",
+            "id": "2842688136"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 97,
+            "end": 107,
+            "probability": 0.9377,
+            "type": "Person",
+            "normalized_text": "Flora Salim"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1554504664447533056"
+        }
+      ],
+      "text": "RT @NanGaoRMIT: I finally got my Ph.D.! I wish to express my sincere gratitude to my supervisors Flora Salim @flosalim, Saieduer @MsaiedurR\u2026",
+      "id": "1554828615548022785",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "IR_oldie",
+            "id": "127894322"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1554596612063670272"
+        }
+      ],
+      "text": "RT @IR_oldie: Thrilled that \"NEST: Simulating Pandemic-like Events for Collaborative Filtering by Modeling User Needs Evolution\" by @Chengl\u2026",
+      "id": "1554601464072654848",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "karinv",
+            "id": "16549460"
+          },
+          {
+            "start": 48,
+            "end": 53,
+            "username": "RMIT",
+            "id": "6778812"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 96,
+            "end": 114,
+            "tag": "interdisciplinary"
+          },
+          {
+            "start": 115,
+            "end": 124,
+            "tag": "research"
+          },
+          {
+            "start": 129,
+            "end": 136,
+            "tag": "impact"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1554218032993812480"
+        }
+      ],
+      "text": "RT @karinv: This is a great opportunity to join @RMIT, particularly if you are passionate about #interdisciplinary #research and #impact!\u2026",
+      "id": "1554601455201681408",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "IR_oldie",
+            "id": "127894322"
+          },
+          {
+            "start": 43,
+            "end": 54,
+            "username": "sculpepper",
+            "id": "14451127"
+          },
+          {
+            "start": 59,
+            "end": 68,
+            "username": "JTrippas",
+            "id": "391867472"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1553961130485493760"
+        }
+      ],
+      "text": "RT @IR_oldie: Do you want to join us? Both @sculpepper and @JTrippas have obtained one of these fellowships, which has given their research\u2026",
+      "id": "1554012784161333248",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "JTrippas",
+            "id": "391867472"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1553986761688117248"
+        }
+      ],
+      "text": "RT @JTrippas: Come and join me! \nI'm one of these Vice-Chancellor's Research Fellows and can only attest to the tremendous opportunity @RMI\u2026",
+      "id": "1554012697519595520",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "karinv",
+            "id": "16549460"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 21,
+            "end": 28,
+            "tag": "NLProc"
+          },
+          {
+            "start": 33,
+            "end": 45,
+            "tag": "ClinicalNLP"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1552587247970529281"
+        }
+      ],
+      "text": "RT @karinv: Applying #NLProc for #ClinicalNLP? It is worth thinking about what implications copy-and-paste and templates in EHRs might have\u2026",
+      "id": "1552617121368403968",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "meverteam",
+            "id": "1153289280254558208"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1551842991119241216"
+        }
+      ],
+      "text": "RT @meverteam: MisFAccT 2022: The 1st Workshop on Fairness, Accountability, and Transparency in Misinformation Management organized by @Kev\u2026",
+      "id": "1552056312204521472",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "damiano10",
+            "id": "132646210"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 27,
+            "end": 48,
+            "probability": 0.873,
+            "type": "Person",
+            "normalized_text": "Prof. Anthony McCosker"
+          },
+          {
+            "start": 64,
+            "end": 100,
+            "probability": 0.395,
+            "type": "Organization",
+            "normalized_text": "RMIT School of Computing Technologies"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1551731872744472576"
+        }
+      ],
+      "text": "RT @damiano10: Many thanks Prof. Anthony McCosker for coming to RMIT School of Computing Technologies to talk to our students at the 'Case\u2026",
+      "id": "1552056032108908544",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "JTrippas",
+            "id": "391867472"
+          },
+          {
+            "start": 34,
+            "end": 42,
+            "username": "ACM_CUI",
+            "id": "1065983591258181633"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1551944963490861057"
+        }
+      ],
+      "text": "RT @JTrippas: Had a great time at @ACM_CUI's doctoral consortium this morning. Thanks for all the interesting conversations and questions.\u2026",
+      "id": "1552055999233929216",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "JTrippas",
+            "id": "391867472"
+          },
+          {
+            "start": 38,
+            "end": 48,
+            "username": "GlasgowCS",
+            "id": "906330847"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1551628301097226247"
+        }
+      ],
+      "text": "RT @JTrippas: Thank you for having me @GlasgowCS.\nGreat audience and questions. \n\nIt is indeed a good photo \ud83d\ude0a\ud83d\ude09\n\nNow I'm completely ready fo\u2026",
+      "id": "1551733665474150400",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "IR_oldie",
+            "id": "127894322"
+          },
+          {
+            "start": 38,
+            "end": 49,
+            "username": "rmit_cidda",
+            "id": "1187585868493537280"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 85,
+            "end": 95,
+            "tag": "sigir2022"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1551498516945457152"
+        }
+      ],
+      "text": "RT @IR_oldie: A huge thank you to our @rmit_cidda students who had such an impact on #sigir2022: posters, doctoral consortiums, networking,\u2026",
+      "id": "1551539433052475393",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "rmit_cidda",
+            "id": "1187585868493537280"
+          },
+          {
+            "start": 20,
+            "end": 31,
+            "username": "rmit_cidda",
+            "id": "1187585868493537280"
+          },
+          {
+            "start": 58,
+            "end": 68,
+            "username": "SIGIRConf",
+            "id": "1189744336415723520"
+          },
+          {
+            "start": 130,
+            "end": 139,
+            "username": "Marwah_k",
+            "id": "249984650"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 91,
+            "end": 111,
+            "probability": 0.9134,
+            "type": "Place",
+            "normalized_text": "Palacio del Negralejo"
+          },
+          {
+            "start": 114,
+            "end": 126,
+            "probability": 0.8143,
+            "type": "Place",
+            "normalized_text": "Madrid, Spain"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 16,
+            "end": 19,
+            "tag": "tb"
+          },
+          {
+            "start": 69,
+            "end": 79,
+            "tag": "SIGIR2022"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1551358269909639168"
+        }
+      ],
+      "text": "RT @rmit_cidda: #tb @rmit_cidda group photo at the lovely @SIGIRConf #SIGIR2022 banquet at Palacio del Negralejo (Madrid, Spain)\n @Marwah_k\u2026",
+      "id": "1551358354580156417",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "damiano10",
+            "id": "132646210"
+          },
+          {
+            "start": 26,
+            "end": 35,
+            "username": "duofeten",
+            "id": "303985197"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 62,
+            "end": 67,
+            "probability": 0.9856,
+            "type": "Place",
+            "normalized_text": "Madrid"
+          },
+          {
+            "start": 102,
+            "end": 110,
+            "probability": 0.7993,
+            "type": "Place",
+            "normalized_text": "Melbourne"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 15,
+            "end": 25,
+            "tag": "SIGIR2022"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1551063994420453376"
+        }
+      ],
+      "text": "RT @damiano10: #SIGIR2022 @duofeten showed us what the sea in Madrid sounds like \ud83c\udfb6\n\nThis is what the Melbourne bay in a sunny winter day lo\u2026",
+      "id": "1551117718178635777",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "danulaera",
+            "id": "248721193"
+          },
+          {
+            "start": 118,
+            "end": 130,
+            "username": "jeanburgess",
+            "id": "18202677"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 91,
+            "end": 105,
+            "probability": 0.3063,
+            "type": "Organization",
+            "normalized_text": "ADM+S Symposium"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1549728643470856192"
+        }
+      ],
+      "text": "RT @danulaera: Really enjoyed being part of this interdisciplinary panel discussion at the ADM+S Symposium. Thanks to @jeanburgess and @Adm\u2026",
+      "id": "1550255093358141441",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "damiano10",
+            "id": "132646210"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 118,
+            "end": 133,
+            "tag": "Misinformation"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1550122462637359104"
+        }
+      ],
+      "text": "RT @damiano10: Deadline extended until August 4! \n\nIf you're working on Fairness, Accountability, and Transparency in #Misinformation #Mana\u2026",
+      "id": "1550124791470112768",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "altanlp",
+            "id": "160741955"
+          }
+        ],
+        "urls": [
+          {
+            "start": 90,
+            "end": 113,
+            "url": "https://t.co/6nXzdzfuxT",
+            "expanded_url": "https://alta2022.alta.asn.au/call-for-papers",
+            "display_url": "alta2022.alta.asn.au/call-for-papers",
+            "status": 200,
+            "title": "Call for Papers | ALTA 2022",
+            "description": "ALTA is the Australasian Language Technology Association, which connects NLP researchers around Australia and New Zealand. One of the primary purposes of ALTA is to organise the ALTA Workshop \u2013 the premier workshop in Australasia for sharing research in Natural Language Processing and Computational Linguistics. Submissions from students, academics and industry researchers are welcome.",
+            "unwound_url": "https://alta2022.alta.asn.au/call-for-papers/"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 115,
+            "end": 120,
+            "tag": "ALTA"
+          },
+          {
+            "start": 121,
+            "end": 128,
+            "tag": "nlproc"
+          },
+          {
+            "start": 129,
+            "end": 138,
+            "tag": "Adelaide"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1549267547878408192"
+        }
+      ],
+      "text": "RT @altanlp: \u23f0\u23f0The Call for Papers at ALTA 2022 is out! \u23f0\u23f0\n\n\ud83d\udc4dPapers Due: 30th Sep, 2022\ud83d\udc4d\n\nhttps://t.co/6nXzdzfuxT\n\n#ALTA #nlproc #Adelaide\u2026",
+      "id": "1550124449550434305",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "JTrippas",
+            "id": "391867472"
+          },
+          {
+            "start": 48,
+            "end": 61,
+            "username": "ResearchRMIT",
+            "id": "193935341"
+          },
+          {
+            "start": 62,
+            "end": 73,
+            "username": "rmit_cidda",
+            "id": "1187585868493537280"
+          },
+          {
+            "start": 74,
+            "end": 88,
+            "username": "RMITComputing",
+            "id": "93781753"
+          }
+        ],
+        "urls": [
+          {
+            "start": 89,
+            "end": 112,
+            "url": "https://t.co/0rLVMBoXfG",
+            "expanded_url": "https://twitter.com/hitarth_08/status/1549761499606007809",
+            "display_url": "twitter.com/hitarth_08/sta\u2026"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1550050063149309952"
+        }
+      ],
+      "text": "RT @JTrippas: I'm looking forward to the talk!\n\n@ResearchRMIT @rmit_cidda @RMITComputing https://t.co/0rLVMBoXfG",
+      "id": "1550097163601948672",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "damiano10",
+            "id": "132646210"
+          },
+          {
+            "start": 28,
+            "end": 39,
+            "username": "DrJeffreyC",
+            "id": "735447938214678529"
+          },
+          {
+            "start": 41,
+            "end": 52,
+            "username": "rmit_cidda",
+            "id": "1187585868493537280"
+          },
+          {
+            "start": 55,
+            "end": 69,
+            "username": "RMITComputing",
+            "id": "93781753"
+          },
+          {
+            "start": 72,
+            "end": 83,
+            "username": "AdmsCentre",
+            "id": "1245923843119575041"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1549925400830439424"
+        }
+      ],
+      "text": "RT @damiano10: My colleague @DrJeffreyC (@rmit_cidda | @RMITComputing | @AdmsCentre ) is sharing his thoughts about fairness, equity, and b\u2026",
+      "id": "1549933699919073280",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "AdmsCentre",
+            "id": "1245923843119575041"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1549630336925331457"
+        }
+      ],
+      "text": "RT @AdmsCentre: Fantastic lineup of speakers exploring the important issues around cultural authority and value in the context of everyday\u2026",
+      "id": "1549635756452618240",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "damiano10",
+            "id": "132646210"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 75,
+            "end": 84,
+            "tag": "ADMS2022"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1549582210982096897"
+        }
+      ],
+      "text": "RT @damiano10: It was a privileged to be part of it. Thanks for having me! #ADMS2022",
+      "id": "1549635695006085120",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "flosalim",
+            "id": "39697728"
+          },
+          {
+            "start": 49,
+            "end": 60,
+            "username": "AdmsCentre",
+            "id": "1245923843119575041"
+          },
+          {
+            "start": 95,
+            "end": 108,
+            "username": "Ant_McCosker",
+            "id": "124434709"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1549509975592280064"
+        }
+      ],
+      "text": "RT @flosalim: I was part of an interdisciplinary @AdmsCentre workshop on keywords of AI led by @Ant_McCosker yesterday. Shared a table w/ @\u2026",
+      "id": "1549635290780008448",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "AdmsCentre",
+            "id": "1245923843119575041"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1549530470698086401"
+        }
+      ],
+      "text": "RT @AdmsCentre: The 2022 ADM+S Symposium has \nofficially begun! Guests have arrived in-person and online, speakers are ready, and anticipat\u2026",
+      "id": "1549634466091798528",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "damiano10",
+            "id": "132646210"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1549017364259377154"
+        }
+      ],
+      "text": "RT @damiano10: My first in-person lectorial since theend of 2019 and the first hybrid ever!\n\nFull-house (I counted more than 60 in the clas\u2026",
+      "id": "1549220012786782209",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "__django____",
+            "id": "2540595355"
+          },
+          {
+            "start": 69,
+            "end": 74,
+            "username": "RMIT",
+            "id": "6778812"
+          },
+          {
+            "start": 75,
+            "end": 84,
+            "username": "GoogleAI",
+            "id": "33838201"
+          },
+          {
+            "start": 85,
+            "end": 99,
+            "username": "RMITComputing",
+            "id": "93781753"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 21,
+            "end": 24,
+            "probability": 0.3877,
+            "type": "Place",
+            "normalized_text": "RMIT"
+          }
+        ],
+        "urls": [
+          {
+            "start": 100,
+            "end": 123,
+            "url": "https://t.co/kzbzK3Td4e",
+            "expanded_url": "https://twitter.com/__django____/status/1547815133900320768/photo/1",
+            "display_url": "pic.twitter.com/kzbzK3Td4e",
+            "media_key": "3_1547815129118830592"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1547815133900320768"
+        }
+      ],
+      "text": "RT @__django____: At RMIT google developer club . Hard-work pays off @RMIT @GoogleAI @RMITComputing https://t.co/kzbzK3Td4e",
+      "id": "1548011565537931265",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "Marwah_k",
+            "id": "249984650"
+          },
+          {
+            "start": 92,
+            "end": 107,
+            "username": "LeilaTavakolii",
+            "id": "1214864022572425217"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1547224874426503169"
+        }
+      ],
+      "text": "RT @Marwah_k: Which clarification questions are more engaging? Is quality a good predictor? @LeilaTavakolii got a dataset to help study tha\u2026",
+      "id": "1548011508877078529",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "JTrippas",
+            "id": "391867472"
+          },
+          {
+            "start": 27,
+            "end": 42,
+            "username": "LeilaTavakolii",
+            "id": "1214864022572425217"
+          },
+          {
+            "start": 44,
+            "end": 53,
+            "username": "JTrippas",
+            "id": "391867472"
+          },
+          {
+            "start": 54,
+            "end": 66,
+            "username": "HamedZamani",
+            "id": "65915718"
+          },
+          {
+            "start": 84,
+            "end": 93,
+            "username": "IR_oldie",
+            "id": "127894322"
+          },
+          {
+            "start": 95,
+            "end": 106,
+            "username": "rmit_cidda",
+            "id": "1187585868493537280"
+          },
+          {
+            "start": 107,
+            "end": 120,
+            "username": "ResearchRMIT",
+            "id": "193935341"
+          },
+          {
+            "start": 121,
+            "end": 135,
+            "username": "RMITComputing",
+            "id": "93781753"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 67,
+            "end": 78,
+            "probability": 0.9647,
+            "type": "Person",
+            "normalized_text": "Falk Scholer"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1547230350165905410"
+        }
+      ],
+      "text": "RT @JTrippas: A paper with @LeilaTavakolii, @JTrippas @HamedZamani Falk Scholer and @IR_oldie\n\n@rmit_cidda @ResearchRMIT @RMITComputing #si\u2026",
+      "id": "1548011487687352324",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "flosalim",
+            "id": "39697728"
+          },
+          {
+            "start": 33,
+            "end": 44,
+            "username": "NanGaoRMIT",
+            "id": "915167646240325632"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 26,
+            "end": 31,
+            "probability": 0.9804,
+            "type": "Person",
+            "normalized_text": "Dr Gao"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1547537282844196865"
+        }
+      ],
+      "text": "RT @flosalim: Congrats to Dr Gao @NanGaoRMIT who completed with flying colours. An examiner noted her thesis is in the top 5%. On the same\u2026",
+      "id": "1547717461750910976",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "time_wiley",
+            "id": "22585506"
+          },
+          {
+            "start": 35,
+            "end": 49,
+            "username": "RMITComputing",
+            "id": "93781753"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1547572494873546753"
+        }
+      ],
+      "text": "RT @time_wiley: Today RedBackBots, @RMITComputing RoboCup SPL team competed remotely in RoboCup 2022! It was great to see our students effo\u2026",
+      "id": "1547717399973048320",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "RobocupSpl",
+            "id": "1146227024366690304"
+          },
+          {
+            "start": 49,
+            "end": 63,
+            "username": "RMITComputing",
+            "id": "93781753"
+          },
+          {
+            "start": 93,
+            "end": 105,
+            "username": "robocup_org",
+            "id": "773046815520333824"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1547602544025026561"
+        }
+      ],
+      "text": "RT @RobocupSpl: We appreciate the RedBackBots of @RMITComputing dialing in to participate in @robocup_org 2022 remotely!\n\nAnd thank you to\u2026",
+      "id": "1547717356662624262",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "IR_oldie",
+            "id": "127894322"
+          },
+          {
+            "start": 52,
+            "end": 68,
+            "username": "BlinovaValeriia",
+            "id": "1511529914180468739"
+          },
+          {
+            "start": 106,
+            "end": 117,
+            "username": "rmit_cidda",
+            "id": "1187585868493537280"
+          },
+          {
+            "start": 118,
+            "end": 132,
+            "username": "RMITComputing",
+            "id": "93781753"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 95,
+            "end": 105,
+            "tag": "sigir2022"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1547321022621356034"
+        }
+      ],
+      "text": "RT @IR_oldie: The paper won best paper. So proud of @BlinovaValeriia an amazing piece of work. #sigir2022 @rmit_cidda @RMITComputing https:\u2026",
+      "id": "1547322781477511168",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "IR_oldie",
+            "id": "127894322"
+          },
+          {
+            "start": 69,
+            "end": 85,
+            "username": "BlinovaValeriia",
+            "id": "1511529914180468739"
+          }
+        ],
+        "urls": [
+          {
+            "start": 97,
+            "end": 120,
+            "url": "https://t.co/TTSwfRs6ej",
+            "expanded_url": "https://twitter.com/JTrippas/status/1547145532539297793",
+            "display_url": "twitter.com/JTrippas/statu\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 86,
+            "end": 96,
+            "tag": "SIGIR2022"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1547150782331592704"
+        }
+      ],
+      "text": "RT @IR_oldie: It was a privilege to present such fantastic work from @BlinovaValeriia #SIGIR2022 https://t.co/TTSwfRs6ej",
+      "id": "1547156950823194626",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "karinv",
+            "id": "16549460"
+          },
+          {
+            "start": 33,
+            "end": 42,
+            "username": "luzrello",
+            "id": "325755342"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1546891076853702656"
+        }
+      ],
+      "text": "RT @karinv: Fantastic quote from @luzrello: \n\"To be in the right place in the right time, you have to be in every place at every time\". \nSh\u2026",
+      "id": "1546892290446196738",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "karinv",
+            "id": "16549460"
+          },
+          {
+            "start": 12,
+            "end": 23,
+            "username": "rmit_cidda",
+            "id": "1187585868493537280"
+          },
+          {
+            "start": 24,
+            "end": 34,
+            "username": "SIGIRConf",
+            "id": "1189744336415723520"
+          },
+          {
+            "start": 35,
+            "end": 44,
+            "username": "IR_oldie",
+            "id": "127894322"
+          },
+          {
+            "start": 45,
+            "end": 56,
+            "username": "sculpepper",
+            "id": "14451127"
+          },
+          {
+            "start": 57,
+            "end": 69,
+            "username": "DanaChatter",
+            "id": "69526355"
+          },
+          {
+            "start": 70,
+            "end": 80,
+            "username": "damiano10",
+            "id": "132646210"
+          },
+          {
+            "start": 81,
+            "end": 90,
+            "username": "JTrippas",
+            "id": "391867472"
+          },
+          {
+            "start": 91,
+            "end": 102,
+            "username": "OlegZendel",
+            "id": "998681467696885761"
+          },
+          {
+            "start": 103,
+            "end": 112,
+            "username": "Marwah_k",
+            "id": "249984650"
+          },
+          {
+            "start": 113,
+            "end": 124,
+            "username": "SachinPC10",
+            "id": "1330708819761004545"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1546835326752145409"
+        }
+      ],
+      "text": "RT @karinv: @rmit_cidda @SIGIRConf @IR_oldie @sculpepper @DanaChatter @damiano10 @JTrippas @OlegZendel @Marwah_k @SachinPC10 @LeilaTavakoli\u2026",
+      "id": "1546838151410466816",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "rmit_cidda",
+            "id": "1187585868493537280"
+          },
+          {
+            "start": 17,
+            "end": 28,
+            "username": "rmit_cidda",
+            "id": "1187585868493537280"
+          },
+          {
+            "start": 55,
+            "end": 65,
+            "username": "SIGIRConf",
+            "id": "1189744336415723520"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 66,
+            "end": 76,
+            "tag": "SIGIR2022"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1546043765864923138"
+        }
+      ],
+      "text": "RT @rmit_cidda: .@rmit_cidda IR Group (a.k.a. ISAR) at @SIGIRConf #SIGIR2022 \nIf you want to know more, many of us will be around and happy\u2026",
+      "id": "1546044968942403585",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "damiano10",
+            "id": "132646210"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 32,
+            "end": 39,
+            "probability": 0.9277,
+            "type": "Person",
+            "normalized_text": "Alistair"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1545051059541856257"
+        }
+      ],
+      "text": "RT @damiano10: Great keynote by Alistair on how users are the crucial component of IR evaluation.\n\nSome of his recommendations are harder t\u2026",
+      "id": "1545052044641181699",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "IR_oldie",
+            "id": "127894322"
+          }
+        ],
+        "urls": [
+          {
+            "start": 55,
+            "end": 78,
+            "url": "https://t.co/icxv44vjve",
+            "expanded_url": "https://twitter.com/asash/status/1544735692001099778",
+            "display_url": "twitter.com/asash/status/1\u2026"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1544797482210803712"
+        }
+      ],
+      "text": "RT @IR_oldie: Thanks for hosting me, much appreciated. https://t.co/icxv44vjve",
+      "id": "1544989713337040897",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 19,
+            "username": "craig_macdonald",
+            "id": "59504716"
+          },
+          {
+            "start": 50,
+            "end": 59,
+            "username": "IR_oldie",
+            "id": "127894322"
+          },
+          {
+            "start": 65,
+            "end": 79,
+            "username": "RMITComputing",
+            "id": "93781753"
+          },
+          {
+            "start": 85,
+            "end": 95,
+            "username": "GlasgowCS",
+            "id": "906330847"
+          },
+          {
+            "start": 96,
+            "end": 107,
+            "username": "ir_glasgow",
+            "id": "1184821524534059008"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 35,
+            "end": 48,
+            "probability": 0.9868,
+            "type": "Person",
+            "normalized_text": "Mark Sanderson"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1544676703183818752"
+        }
+      ],
+      "text": "RT @craig_macdonald: Great to have Mark Sanderson @IR_oldie from @RMITComputing (and @GlasgowCS @ir_glasgow alumni) presenting here today.\u2026",
+      "id": "1544989407647875072",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "ir_glasgow",
+            "id": "1184821524534059008"
+          },
+          {
+            "start": 60,
+            "end": 71,
+            "username": "ir_glasgow",
+            "id": "1184821524534059008"
+          },
+          {
+            "start": 99,
+            "end": 108,
+            "username": "IR_oldie",
+            "id": "127894322"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 79,
+            "end": 97,
+            "probability": 0.6348,
+            "type": "Person",
+            "normalized_text": "Prof Mark Sanderson"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1544354825298649088"
+        }
+      ],
+      "text": "RT @ir_glasgow: Tomorrow Wednesday 2:30pm, BST time, former @ir_glasgow alumni Prof Mark Sanderson @IR_oldie will be giving an in-person se\u2026",
+      "id": "1544364236490657792",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "AdmsCentre",
+            "id": "1245923843119575041"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1542670275082219522"
+        }
+      ],
+      "text": "RT @AdmsCentre: Secure your place at the 2022 ADM+S Symposium 'Automated Societies: What do we need to know?' on  20-22 July!\n\nHear from le\u2026",
+      "id": "1542757227710275585",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "flosalim",
+            "id": "39697728"
+          },
+          {
+            "start": 47,
+            "end": 60,
+            "username": "Cambridge_CL",
+            "id": "4899597089"
+          },
+          {
+            "start": 71,
+            "end": 77,
+            "username": "cecim",
+            "id": "27403471"
+          },
+          {
+            "start": 78,
+            "end": 92,
+            "username": "CL_mobiCentre",
+            "id": "1037339680059142145"
+          },
+          {
+            "start": 120,
+            "end": 129,
+            "username": "veskiorg",
+            "id": "2917585904"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1542463277804171264"
+        }
+      ],
+      "text": "RT @flosalim: This was taken before my seminar @Cambridge_CL hosted by @cecim @CL_mobiCentre. My visit was supported by @veskiorg Victoria\u2026",
+      "id": "1542611278686035973",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "AdmsCentre",
+            "id": "1245923843119575041"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1542327072177135617"
+        }
+      ],
+      "text": "RT @AdmsCentre: Do you want to make a difference to online advertising accountability? Apply now! Tech for Good: Darks Ad Hackathon 28-30 S\u2026",
+      "id": "1542413423287451651",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "damiano10",
+            "id": "132646210"
+          },
+          {
+            "start": 37,
+            "end": 45,
+            "username": "UNEDNLP",
+            "id": "1121364987178618880"
+          },
+          {
+            "start": 46,
+            "end": 56,
+            "username": "ETSIIUNED",
+            "id": "766230286535430144"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1541764914427084806"
+        }
+      ],
+      "text": "RT @damiano10: Thanks for having me, @UNEDNLP @ETSIIUNED! It's hard to describe coming back to one of my homes, give a talk in Spanish abou\u2026",
+      "id": "1542079232376971266",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "IR_oldie",
+            "id": "127894322"
+          },
+          {
+            "start": 29,
+            "end": 43,
+            "username": "AlexBenedetti",
+            "id": "140085801"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 73,
+            "end": 118,
+            "probability": 0.2196,
+            "type": "Other",
+            "normalized_text": "Dense Retrieval with Apache Solr Neural Search"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1542054782570926080"
+        }
+      ],
+      "text": "RT @IR_oldie: Many thanks to @AlexBenedetti for his fantastic talk about Dense Retrieval with Apache Solr Neural Search. Thanks to @vince_a\u2026",
+      "id": "1542077650822483968",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "IR_oldie",
+            "id": "127894322"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 70,
+            "end": 79,
+            "tag": "pandemic"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1541927170989101056"
+        }
+      ],
+      "text": "RT @IR_oldie: Do sudden population wide shifts in behavior, as in the #pandemic, affect recommender systems? Detecting shifts and their imp\u2026",
+      "id": "1542077231589216258",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "damiano10",
+            "id": "132646210"
+          },
+          {
+            "start": 65,
+            "end": 70,
+            "username": "RMIT",
+            "id": "6778812"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1539490700819320833"
+        }
+      ],
+      "text": "RT @damiano10: The Indigenous word cards can be purchased at the @RMIT store and are a great resource to help non-Indigenous people to take\u2026",
+      "id": "1539490870986428417",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 146,
+            "end": 155,
+            "username": "JTrippas",
+            "id": "391867472"
+          }
+        ],
+        "urls": [
+          {
+            "start": 157,
+            "end": 180,
+            "url": "https://t.co/ivhuiHlcnu",
+            "expanded_url": "https://twitter.com/Engineeringkate/status/1537727483390197760",
+            "display_url": "twitter.com/Engineeringkat\u2026"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1537727483390197760"
+        }
+      ],
+      "text": "Many congratulations to all the students who completed their HDR milestones. And thanks to the speakers for the great keynotes, including our own @JTrippas! https://t.co/ivhuiHlcnu",
+      "id": "1537983199502290945",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "IR_oldie",
+            "id": "127894322"
+          },
+          {
+            "start": 62,
+            "end": 72,
+            "username": "SIGIRConf",
+            "id": "1189744336415723520"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1536837262582829056"
+        }
+      ],
+      "text": "RT @IR_oldie: \"A Non-Factoid Question-Answering Taxonomy\" our @SIGIRConf full paper, written by our student Valeriia Bolotova pre-print now\u2026",
+      "id": "1536844372699848704",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "IR_oldie",
+            "id": "127894322"
+          },
+          {
+            "start": 17,
+            "end": 27,
+            "username": "SIGIRConf",
+            "id": "1189744336415723520"
+          },
+          {
+            "start": 28,
+            "end": 43,
+            "username": "LeilaTavakolii",
+            "id": "1214864022572425217"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 69,
+            "end": 78,
+            "probability": 0.2499,
+            "type": "Organization",
+            "normalized_text": "MIMICS-Duo"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1536104752206913536"
+        }
+      ],
+      "text": "RT @IR_oldie: At @SIGIRConf @LeilaTavakolii will present her work on MIMICS-Duo, a corpus to allow offline &amp; online evaluation of the clari\u2026",
+      "id": "1536171850740355072",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "IR_oldie",
+            "id": "127894322"
+          },
+          {
+            "start": 43,
+            "end": 53,
+            "username": "SIGIRConf",
+            "id": "1189744336415723520"
+          },
+          {
+            "start": 127,
+            "end": 137,
+            "username": "damiano10",
+            "id": "132646210"
+          }
+        ],
+        "urls": [
+          {
+            "start": 103,
+            "end": 126,
+            "url": "https://t.co/ho2sEB6SNY",
+            "expanded_url": "https://youtu.be/2vGr3SwvnSQ",
+            "display_url": "youtu.be/2vGr3SwvnSQ",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1536113633821831170/bxDDB_EX?format=jpg&name=orig",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1536113633821831170/bxDDB_EX?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Where do queries come from?",
+            "description": "Our ACM SIGIR2022 pre-recorded talk for our perspective paper \"Where Do Queries Come From?\", M. Alaofi, L. Gallagher, D. McKay, L.L. Saling, M. Sanderson, F....",
+            "unwound_url": "https://www.youtube.com/watch?v=2vGr3SwvnSQ&feature=youtu.be"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1536113632127291393"
+        }
+      ],
+      "text": "RT @IR_oldie: The pre-recorded talk of our @SIGIRConf perspectives paper \"Where do queries come from?\" https://t.co/ho2sEB6SNY @damiano10 @\u2026",
+      "id": "1536136127996129280",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "AdmsCentre",
+            "id": "1245923843119575041"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1535049642827980801"
+        }
+      ],
+      "text": "RT @AdmsCentre: \ud83d\udce2 Registrations for our 2022 ADM+S Symposium 'Automated Societies: What do we need to know?' are now open! \n\nJoin us on 20-\u2026",
+      "id": "1535063971425792001",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "annotations": [
+          {
+            "start": 142,
+            "end": 160,
+            "probability": 0.9335,
+            "type": "Person",
+            "normalized_text": "Dr. Elham Naghizade"
+          }
+        ],
+        "urls": [
+          {
+            "start": 187,
+            "end": 210,
+            "url": "https://t.co/JfWyAbiNYC",
+            "expanded_url": "https://twitter.com/RMITsgr/status/1534346207694397446",
+            "display_url": "twitter.com/RMITsgr/status\u2026"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1534346207694397446"
+        }
+      ],
+      "text": "Don't miss the panel next Wednesday on Impact pathfinders and how to effectively engage with stakeholders for create research impact (our own Dr. Elham Naghizade is one of the panelist!) https://t.co/JfWyAbiNYC",
+      "id": "1534388095151644674",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "BobbiFleiss",
+            "id": "2721049641"
+          },
+          {
+            "start": 17,
+            "end": 33,
+            "username": "AliceCJohnstone",
+            "id": "1170875728688140290"
+          },
+          {
+            "start": 106,
+            "end": 119,
+            "username": "ResearchRMIT",
+            "id": "193935341"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 85,
+            "end": 100,
+            "tag": "Bioinformatics"
+          },
+          {
+            "start": 101,
+            "end": 105,
+            "tag": "PhD"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1533997925142958080"
+        }
+      ],
+      "text": "RT @BobbiFleiss: @AliceCJohnstone and I are on the hunt for a talented student for a #Bioinformatics #PhD @ResearchRMIT \n\nPlease RT: @SOBRN\u2026",
+      "id": "1534140925513199616",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 8,
+            "username": "RMIT",
+            "id": "6778812"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 10,
+            "end": 13,
+            "probability": 0.4431,
+            "type": "Place",
+            "normalized_text": "RMIT"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 56,
+            "end": 75,
+            "tag": "DigiHealthFest2022"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1531892575354748928"
+        }
+      ],
+      "text": "RT @RMIT: RMIT has launched a new Digital Health Hub at #DigiHealthFest2022, designed to drive digital innovation to support healthcare tra\u2026",
+      "id": "1532731639776018437",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "ATNUnis",
+            "id": "555558028"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 46,
+            "end": 53,
+            "probability": 0.7644,
+            "type": "Other",
+            "normalized_text": "Mabo Day"
+          },
+          {
+            "start": 70,
+            "end": 79,
+            "probability": 0.4911,
+            "type": "Place",
+            "normalized_text": "Mer Island"
+          },
+          {
+            "start": 129,
+            "end": 138,
+            "probability": 0.9263,
+            "type": "Person",
+            "normalized_text": "Eddie Koik"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1532504849664835597"
+        }
+      ],
+      "text": "RT @ATNUnis: Today is the 30th anniversary of Mabo Day, commemorating Mer Island man and campaigner for First Nation land rights Eddie Koik\u2026",
+      "id": "1532505322786410496",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "damiano10",
+            "id": "132646210"
+          },
+          {
+            "start": 29,
+            "end": 39,
+            "username": "lisagiven",
+            "id": "97316192"
+          },
+          {
+            "start": 47,
+            "end": 58,
+            "username": "rmit_cidda",
+            "id": "1187585868493537280"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1532256983537004546"
+        }
+      ],
+      "text": "RT @damiano10: Great talk by @lisagiven at the @rmit_cidda TIGER! Many useful tips on how to put into practice interdisciplinary collaborat\u2026",
+      "id": "1532364477311893504",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "flosalim",
+            "id": "39697728"
+          },
+          {
+            "start": 23,
+            "end": 34,
+            "username": "NanGaoRMIT",
+            "id": "915167646240325632"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1532348864262733824"
+        }
+      ],
+      "text": "RT @flosalim: Kudos to @NanGaoRMIT for her great effort on the data collection &amp; paper. She's submitted and will soon start as a postdoc @T\u2026",
+      "id": "1532364331245277184",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "karinv",
+            "id": "16549460"
+          },
+          {
+            "start": 16,
+            "end": 21,
+            "username": "RMIT",
+            "id": "6778812"
+          },
+          {
+            "start": 56,
+            "end": 67,
+            "username": "DrKerrynBH",
+            "id": "3192893413"
+          }
+        ],
+        "urls": [
+          {
+            "start": 70,
+            "end": 93,
+            "url": "https://t.co/7iF8bqjLbX",
+            "expanded_url": "https://twitter.com/karinv/status/1531912259244478464/photo/1",
+            "display_url": "pic.twitter.com/7iF8bqjLbX",
+            "media_key": "3_1531912253322055681"
+          },
+          {
+            "start": 70,
+            "end": 93,
+            "url": "https://t.co/7iF8bqjLbX",
+            "expanded_url": "https://twitter.com/karinv/status/1531912259244478464/photo/1",
+            "display_url": "pic.twitter.com/7iF8bqjLbX",
+            "media_key": "3_1531912253326229508"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 22,
+            "end": 36,
+            "tag": "DigitalHealth"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1531912259244478464"
+        }
+      ],
+      "text": "RT @karinv: The @RMIT #DigitalHealth Hub is launched by @DrKerrynBH ! https://t.co/7iF8bqjLbX",
+      "id": "1531913502566551552",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "tsonika",
+            "id": "93743265"
+          },
+          {
+            "start": 77,
+            "end": 82,
+            "username": "RMIT",
+            "id": "6778812"
+          },
+          {
+            "start": 83,
+            "end": 90,
+            "username": "karinv",
+            "id": "16549460"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 121,
+            "end": 129,
+            "probability": 0.992,
+            "type": "Place",
+            "normalized_text": "Melbourne"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 21,
+            "end": 38,
+            "tag": "DigiHealthFest22"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1531773449114222593"
+        }
+      ],
+      "text": "RT @tsonika: Day2 of #DigiHealthFest22 starts with the launch of digital hub @RMIT @karinv - exciting stuff happening in Melbourne ! #digit\u2026",
+      "id": "1531869868760637445",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "DrKerrynBH",
+            "id": "3192893413"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 47,
+            "end": 69,
+            "probability": 0.4206,
+            "type": "Other",
+            "normalized_text": "RMIT Digital Health Hub"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1531606552884527104"
+        }
+      ],
+      "text": "RT @DrKerrynBH: It is an exciting week for the RMIT Digital Health Hub.\nToday I had the pleasure of chairing a panel at the #DigiHealthFest\u2026",
+      "id": "1531606881495461888",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 9,
+            "end": 32,
+            "url": "https://t.co/OXSPIkgX8o",
+            "expanded_url": "https://twitter.com/drjulialow/status/1529958657940520960",
+            "display_url": "twitter.com/drjulialow/sta\u2026"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1529958657940520960"
+        }
+      ],
+      "text": "\ud83d\udc4f\ud83c\udffd\ud83d\udc4f\ud83c\udffd\ud83d\udc4f\ud83c\udffd\ud83d\udc4f\ud83c\udffd https://t.co/OXSPIkgX8o",
+      "id": "1530108150527180800",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "IR_oldie",
+            "id": "127894322"
+          },
+          {
+            "start": 18,
+            "end": 28,
+            "username": "SIGIRConf",
+            "id": "1189744336415723520"
+          }
+        ],
+        "urls": [
+          {
+            "start": 78,
+            "end": 101,
+            "url": "https://t.co/AYwb5eZe2s",
+            "expanded_url": "http://marksanderson.org/publications/my_papers/sigir2022a.pdf",
+            "display_url": "marksanderson.org/publications/m\u2026",
+            "status": 200,
+            "unwound_url": "http://marksanderson.org/publications/my_papers/sigir2022a.pdf"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1529225989531742208"
+        }
+      ],
+      "text": "RT @IR_oldie: Our @SIGIRConf perspectives paper \"Where do queries come from?\" https://t.co/AYwb5eZe2s The biggest influence in search succe\u2026",
+      "id": "1529227636001886208",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "Dr_Hai_Dong",
+            "id": "632917747"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1528583478672904193"
+        }
+      ],
+      "text": "RT @Dr_Hai_Dong: Our paper \"Test-Case Generation for Data Flow Testing of Smart Contracts Based on Improved Genetic Algorithm\" recently acc\u2026",
+      "id": "1528600080223469568",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "IR_oldie",
+            "id": "127894322"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 89,
+            "end": 106,
+            "probability": 0.9778,
+            "type": "Person",
+            "normalized_text": "Karen Sparck Jones"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1528344600334651392"
+        }
+      ],
+      "text": "RT @IR_oldie: Fifty years ago, a landmark paper of search engine research was published: Karen Sparck Jones's \"A statistical interpretation\u2026",
+      "id": "1528542914774978560",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 19,
+            "username": "DayofAIAustral1",
+            "id": "1508738013802954754"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1527457479977668609"
+        }
+      ],
+      "text": "RT @DayofAIAustral1: \"...it is fundamental to understand how AI and computer systems work, what their main ingredients are, and importantly\u2026",
+      "id": "1527519863862087681",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "lisagiven",
+            "id": "97316192"
+          },
+          {
+            "start": 62,
+            "end": 76,
+            "username": "RMITComputing",
+            "id": "93781753"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 99,
+            "end": 103,
+            "tag": "hci"
+          },
+          {
+            "start": 104,
+            "end": 119,
+            "tag": "userexperience"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1527135330926997504"
+        }
+      ],
+      "text": "RT @lisagiven: This is a great interdisciplinary opportunity \u2066@RMITComputing\u2069 for those working in #hci #userexperience #informationbehavio\u2026",
+      "id": "1527439860948434944",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "drjulialow",
+            "id": "6516352"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1527119201231851521"
+        }
+      ],
+      "text": "RT @drjulialow: My students showed me their demo yesterday on their solution to present food samples individually during the VR Food in Spa\u2026",
+      "id": "1527439829948313600",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 15,
+            "end": 20,
+            "username": "RMIT",
+            "id": "6778812"
+          },
+          {
+            "start": 97,
+            "end": 110,
+            "username": "ResearchRMIT",
+            "id": "193935341"
+          },
+          {
+            "start": 111,
+            "end": 121,
+            "username": "Rmitccsri",
+            "id": "1291243790649286656"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 21,
+            "end": 53,
+            "probability": 0.6103,
+            "type": "Other",
+            "normalized_text": "Green Cryptocurrency Research Lab"
+          }
+        ],
+        "urls": [
+          {
+            "start": 72,
+            "end": 95,
+            "url": "https://t.co/4SKdP1cQyU",
+            "expanded_url": "https://bit.ly/3Licnlu",
+            "display_url": "bit.ly/3Licnlu",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1524185069107265536/qB83FVFj?format=jpg&name=orig",
+                "width": 1400,
+                "height": 700
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1524185069107265536/qB83FVFj?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Australian University To Launch A \u2018Green Cryptocurrency\u2019 Research Lab",
+            "description": "Australia\u2019s Royal Melbourne Institute of Technology (RMIT) has successfully launched its Green Cryptocurrency Laboratory. Co-founded with the...",
+            "unwound_url": "https://cryptonews.com.au/australian-university-to-launch-a-green-cryptocurrency-research"
+          },
+          {
+            "start": 122,
+            "end": 145,
+            "url": "https://t.co/zbWsTnkif6",
+            "expanded_url": "https://twitter.com/Dr_Hai_Dong/status/1523653318299422720",
+            "display_url": "twitter.com/Dr_Hai_Dong/st\u2026"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1523653318299422720"
+        }
+      ],
+      "text": "More about the @RMIT Green Cryptocurrency Research Lab (GreenCryptoLab) https://t.co/4SKdP1cQyU\n\n@ResearchRMIT @Rmitccsri https://t.co/zbWsTnkif6",
+      "id": "1525983259380764672",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "damiano10",
+            "id": "132646210"
+          },
+          {
+            "start": 59,
+            "end": 70,
+            "username": "AdmsCentre",
+            "id": "1245923843119575041"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1524978534351273984"
+        }
+      ],
+      "text": "RT @damiano10: Join us on May 30th for a half-day hands-on @AdmsCentre workshop to work out together the next generation of presentation st\u2026",
+      "id": "1525009694083158016",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "Dr_Hai_Dong",
+            "id": "632917747"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 78,
+            "end": 128,
+            "probability": 0.4928,
+            "type": "Other",
+            "normalized_text": "RMIT Green Cryptocurrency Joint Research Laboratory"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1523653318299422720"
+        }
+      ],
+      "text": "RT @Dr_Hai_Dong: So proud to be involved in the launch event of our CloudTech-RMIT Green Cryptocurrency Joint Research Laboratory (GreenCry\u2026",
+      "id": "1525009649422204930",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "IR_oldie",
+            "id": "127894322"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1523047092347830272"
+        }
+      ],
+      "text": "RT @IR_oldie: Given a topic, how people formulate their query influences result quality substantially more than any algorithmic component o\u2026",
+      "id": "1523397657842319360",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "APOorgau",
+            "id": "1366949342297268225"
+          },
+          {
+            "start": 47,
+            "end": 58,
+            "username": "AdmsCentre",
+            "id": "1245923843119575041"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1521354504406372353"
+        }
+      ],
+      "text": "RT @APOorgau: We're pleased to be partnering w/@AdmsCentre to provide a repository of research outputs.\n1st up:\nAustralian search experienc\u2026",
+      "id": "1521678829991112705",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "drjulialow",
+            "id": "6516352"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 22,
+            "end": 34,
+            "probability": 0.7722,
+            "type": "Other",
+            "normalized_text": "Star Wars Day"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 108,
+            "end": 111,
+            "tag": "VR"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1521670795512393730"
+        }
+      ],
+      "text": "RT @drjulialow: Happy Star Wars Day! \ud83d\ude80\nI am very excited to share a progress video from our \u2018Food in Space\u2019 #VR project. It\u2019s the start of\u2026",
+      "id": "1521678678467706880",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "damiano10",
+            "id": "132646210"
+          },
+          {
+            "start": 22,
+            "end": 29,
+            "username": "eglu81",
+            "id": "19659370"
+          },
+          {
+            "start": 34,
+            "end": 47,
+            "username": "UQSchoolITEE",
+            "id": "1377039563181281280"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1519482446261022720"
+        }
+      ],
+      "text": "RT @damiano10: Thanks @eglu81 and @UQSchoolITEE for having me! I really enjoyed spending the day with you! It was also great to hear the in\u2026",
+      "id": "1519484352656457728",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "UQSchoolITEE",
+            "id": "1377039563181281280"
+          },
+          {
+            "start": 33,
+            "end": 43,
+            "username": "damiano10",
+            "id": "132646210"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 117,
+            "end": 124,
+            "probability": 0.9634,
+            "type": "Person",
+            "normalized_text": "Dr Spina"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 71,
+            "end": 83,
+            "tag": "DataScience"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1518464312691793921"
+        }
+      ],
+      "text": "RT @UQSchoolITEE: Welcome to BNE @damiano10 \ud83d\udc4b\n\n\ud83d\udce3 Next up on our weekly #DataScience seminar series is a session by Dr Spina on \"Diversity a\u2026",
+      "id": "1518509000832155648",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "frrncl",
+            "id": "3128829965"
+          },
+          {
+            "start": 97,
+            "end": 107,
+            "username": "UniPadova",
+            "id": "180753423"
+          },
+          {
+            "start": 109,
+            "end": 118,
+            "username": "IR_oldie",
+            "id": "127894322"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 72,
+            "end": 86,
+            "tag": "SearchEngines"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1514714783051833344"
+        }
+      ],
+      "text": "RT @frrncl: Next Wednesday, 20 April 2022 at 10:30 CEST, as part of the #SearchEngines course at @UniPadova, @IR_oldie will give a talk ent\u2026",
+      "id": "1517346895818940416",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 8,
+            "username": "RMIT",
+            "id": "6778812"
+          },
+          {
+            "start": 42,
+            "end": 55,
+            "username": "JN_Institute",
+            "id": "1064683962084118529"
+          },
+          {
+            "start": 85,
+            "end": 98,
+            "username": "rmit_factlab",
+            "id": "1427432985129746433"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1513804166753230851"
+        }
+      ],
+      "text": "RT @RMIT: A new collaboration between the @JN_Institute for Journalism and Ideas and @rmit_factlab will use advanced digital analysis techn\u2026",
+      "id": "1514110760623874052",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 8,
+            "username": "RMIT",
+            "id": "6778812"
+          },
+          {
+            "start": 42,
+            "end": 54,
+            "username": "RMITVietnam",
+            "id": "1059719784"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1513366244271009794"
+        }
+      ],
+      "text": "RT @RMIT: Huge congratulations to all our @RMITVietnam students who graduated last week! What a fantastic week to celebrate all your hard w\u2026",
+      "id": "1513705586101473281",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "rmit_cidda",
+            "id": "1187585868493537280"
+          },
+          {
+            "start": 70,
+            "end": 81,
+            "username": "rmit_cidda",
+            "id": "1187585868493537280"
+          },
+          {
+            "start": 110,
+            "end": 125,
+            "username": "SaraAlmaghrabi",
+            "id": "3118410800"
+          },
+          {
+            "start": 132,
+            "end": 141,
+            "username": "Marwah_k",
+            "id": "249984650"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1511884943101612032"
+        }
+      ],
+      "text": "RT @rmit_cidda: And the good news keep coming! This time for a superb @rmit_cidda cross-node collaboration by @SaraAlmaghrabi &amp; @Marwah_k,\u2026",
+      "id": "1511886080269725698",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 24,
+            "end": 38,
+            "username": "RMITComputing",
+            "id": "93781753"
+          },
+          {
+            "start": 43,
+            "end": 54,
+            "username": "rmit_cidda",
+            "id": "1187585868493537280"
+          },
+          {
+            "start": 64,
+            "end": 73,
+            "username": "Marwah_k",
+            "id": "249984650"
+          },
+          {
+            "start": 78,
+            "end": 93,
+            "username": "SaraAlmaghrabi",
+            "id": "3118410800"
+          },
+          {
+            "start": 129,
+            "end": 134,
+            "username": "RMIT",
+            "id": "6778812"
+          },
+          {
+            "start": 135,
+            "end": 150,
+            "username": "CogniantHealth",
+            "id": "4573776734"
+          }
+        ],
+        "urls": [
+          {
+            "start": 179,
+            "end": 202,
+            "url": "https://t.co/byz9qT9lpR",
+            "expanded_url": "https://twitter.com/xiuzhenzhang/status/1511715197144412166",
+            "display_url": "twitter.com/xiuzhenzhang/s\u2026"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1511715197144412166"
+        }
+      ],
+      "text": "Many congratulations to @RMITComputing and @rmit_cidda students @Marwah_k and @SaraAlmaghrabi for winning the first place at the @RMIT @CogniantHealth Mental Health Datathon! \ud83c\udf89\ud83c\udf89\ud83c\udf89 https://t.co/byz9qT9lpR",
+      "id": "1511857250393997315",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "damiano10",
+            "id": "132646210"
+          },
+          {
+            "start": 31,
+            "end": 42,
+            "username": "SachinPC10",
+            "id": "1330708819761004545"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 123,
+            "end": 131,
+            "tag": "phdlife"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1511222337428852741"
+        }
+      ],
+      "text": "RT @damiano10: Congratulations @SachinPC10 for your first (non-self) citation of your PhD work! Surely the first of many! \n#phdlife @rmit_c\u2026",
+      "id": "1511571643159646213",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "IR_oldie",
+            "id": "127894322"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 75,
+            "end": 85,
+            "tag": "SIGIR2022"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1511443887839055873"
+        }
+      ],
+      "text": "RT @IR_oldie: \"User-centered Non-factoid Answer Retrieval\" accepted at the #SIGIR2022 Doctoral Consortium. Many congratulations to @Marwah_\u2026",
+      "id": "1511571599937343492",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "rmit_cidda",
+            "id": "1187585868493537280"
+          },
+          {
+            "start": 17,
+            "end": 28,
+            "username": "rmit_cidda",
+            "id": "1187585868493537280"
+          },
+          {
+            "start": 32,
+            "end": 42,
+            "username": "SIGIRConf",
+            "id": "1189744336415723520"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1511528349176193030"
+        }
+      ],
+      "text": "RT @rmit_cidda: .@rmit_cidda at @SIGIRConf:\n\n2 full papers, \n1 perspectives paper, \n1 resource paper, \n1 short paper, and \n2 DC papers \n\nac\u2026",
+      "id": "1511538112169619459",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "IR_oldie",
+            "id": "127894322"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1510394938667958275"
+        }
+      ],
+      "text": "RT @IR_oldie: \"MIMICS-Duo: Enabling Both Offline and Online Evaluations for Search Clarification\" accepted in the resource track of #SIGIR2\u2026",
+      "id": "1511165362540142593",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "IR_oldie",
+            "id": "127894322"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1509831052218445826"
+        }
+      ],
+      "text": "RT @IR_oldie: \"Evaluation of Herd Behavior Caused by Population-scale Concept Drift in Collaborative Filtering\" accepted as a short paper a\u2026",
+      "id": "1510003823720378369",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "IR_oldie",
+            "id": "127894322"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1509641200256499718"
+        }
+      ],
+      "text": "RT @IR_oldie: A huge team effort, so thrilled to see the acceptance this morning. \"Where do Queries Come From?\" a big question I think we a\u2026",
+      "id": "1509722963095957504",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "damiano10",
+            "id": "132646210"
+          },
+          {
+            "start": 15,
+            "end": 29,
+            "username": "eamigocabrera",
+            "id": "846672306378326016"
+          },
+          {
+            "start": 30,
+            "end": 38,
+            "username": "mizzaro",
+            "id": "18932422"
+          },
+          {
+            "start": 39,
+            "end": 49,
+            "username": "SIGIRConf",
+            "id": "1189744336415723520"
+          },
+          {
+            "start": 83,
+            "end": 92,
+            "username": "Marwah_k",
+            "id": "249984650"
+          },
+          {
+            "start": 93,
+            "end": 99,
+            "username": "lgr3d",
+            "id": "94732055"
+          },
+          {
+            "start": 100,
+            "end": 112,
+            "username": "DanaChatter",
+            "id": "69526355"
+          },
+          {
+            "start": 124,
+            "end": 133,
+            "username": "IR_oldie",
+            "id": "127894322"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1509610260469719041"
+        }
+      ],
+      "text": "RT @damiano10: @eamigocabrera @mizzaro @SIGIRConf \"Where Do Queries Come From?\" w/ @Marwah_k @lgr3d @DanaChatter L. Saling, @IR_oldie F. Sc\u2026",
+      "id": "1509610926969786394",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "damiano10",
+            "id": "132646210"
+          },
+          {
+            "start": 100,
+            "end": 114,
+            "username": "eamigocabrera",
+            "id": "846672306378326016"
+          },
+          {
+            "start": 121,
+            "end": 129,
+            "username": "mizzaro",
+            "id": "18932422"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1509609157724278784"
+        }
+      ],
+      "text": "RT @damiano10: \"Ranking Interruptus: When Truncated Rankings Are Better and How to Measure That\" w/ @eamigocabrera &amp; @mizzaro accepted as f\u2026",
+      "id": "1509610902626070528",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "damiano10",
+            "id": "132646210"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 19,
+            "end": 29,
+            "tag": "SiGIR2022"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1509608241067528211"
+        }
+      ],
+      "text": "RT @damiano10: 2/2 #SiGIR2022 submission accepted!! (1 full and 1 perspectives paper) [1/3]",
+      "id": "1509610879112777736",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "IR_oldie",
+            "id": "127894322"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 83,
+            "end": 93,
+            "tag": "sigir2022"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1509537081248215046"
+        }
+      ],
+      "text": "RT @IR_oldie: \"A Non-Factoid Question-Answering Taxonomy\", full paper accepted for #sigir2022. Super thrilled for our student Valeriia and\u2026",
+      "id": "1509610851065466923",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 22,
+            "end": 31,
+            "username": "flosalim",
+            "id": "39697728"
+          }
+        ],
+        "urls": [
+          {
+            "start": 64,
+            "end": 87,
+            "url": "https://t.co/vDLW1n8vdg",
+            "expanded_url": "https://twitter.com/flosalim/status/1509485037376647168",
+            "display_url": "twitter.com/flosalim/statu\u2026"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "quoted",
+          "id": "1509485037376647168"
+        }
+      ],
+      "text": "Many congratulations, @flosalim !! So well deserved!! \ud83d\udc4f\ud83c\udffd\ud83d\udc4f\ud83c\udffd\ud83d\udc4f\ud83c\udffd\ud83c\udf89\ud83c\udf89\ud83c\udf89 https://t.co/vDLW1n8vdg",
+      "id": "1509498280782163974",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "karinv",
+            "id": "16549460"
+          },
+          {
+            "start": 79,
+            "end": 93,
+            "username": "RMITComputing",
+            "id": "93781753"
+          },
+          {
+            "start": 94,
+            "end": 99,
+            "username": "RMIT",
+            "id": "6778812"
+          },
+          {
+            "start": 100,
+            "end": 111,
+            "username": "rmitciairi",
+            "id": "1427913464610099202"
+          }
+        ],
+        "urls": [
+          {
+            "start": 112,
+            "end": 135,
+            "url": "https://t.co/8sNujSnhtV",
+            "expanded_url": "https://twitter.com/JenniferC_Boer/status/1509477422881984519",
+            "display_url": "twitter.com/JenniferC_Boer\u2026"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 61,
+            "end": 78,
+            "tag": "WAIawards2022anz"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1509478759958679556"
+        }
+      ],
+      "text": "RT @karinv: What a fantastic event! I feel like a celebrity! #WAIawards2022anz @RMITComputing @RMIT @rmitciairi https://t.co/8sNujSnhtV",
+      "id": "1509498075106054145",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "karinv",
+            "id": "16549460"
+          },
+          {
+            "start": 118,
+            "end": 127,
+            "username": "flosalim",
+            "id": "39697728"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 47,
+            "end": 57,
+            "probability": 0.9901,
+            "type": "Person",
+            "normalized_text": "Flora Salim"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 98,
+            "end": 115,
+            "tag": "WAIawarda2022anz"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1509466509038346243"
+        }
+      ],
+      "text": "RT @karinv: We are so excited to announce that Flora Salim has won the AI in Defence award at the #WAIawarda2022anz ! @flosalim @RMITComput\u2026",
+      "id": "1509498051043291137",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "karinv",
+            "id": "16549460"
+          },
+          {
+            "start": 12,
+            "end": 26,
+            "username": "RMITComputing",
+            "id": "93781753"
+          },
+          {
+            "start": 131,
+            "end": 139,
+            "username": "tsonika",
+            "id": "93743265"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 82,
+            "end": 99,
+            "tag": "WAIawards2022anz"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1509449369744908288"
+        }
+      ],
+      "text": "RT @karinv: @RMITComputing is pleased to sponsor the AI in Health category of the #WAIawards2022anz. Best of luck to the finalists @tsonika\u2026",
+      "id": "1509498012996825090",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "StartupShelley",
+            "id": "2616125786"
+          },
+          {
+            "start": 72,
+            "end": 86,
+            "username": "RMITComputing",
+            "id": "93781753"
+          },
+          {
+            "start": 120,
+            "end": 127,
+            "username": "karinv",
+            "id": "16549460"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 90,
+            "end": 107,
+            "tag": "waiawards2022anz"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1509444506403237888"
+        }
+      ],
+      "text": "RT @StartupShelley: Delighted to be with collaborators and friends form @RMITComputing at #waiawards2022anz celebrating @karinv \ud83d\ude4c\ud83c\udffb\ud83e\udd42#womenin\u2026",
+      "id": "1509497839428071427",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "flosalim",
+            "id": "39697728"
+          },
+          {
+            "start": 39,
+            "end": 46,
+            "username": "Nature",
+            "id": "15862891"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1508907492818190336"
+        }
+      ],
+      "text": "RT @flosalim: Our paper is accepted to @Nature Scientific Data\ud83c\udf89. We\u2019ve published a physiological and environmental sensing dataset with div\u2026",
+      "id": "1509015783866716165",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "AdmsCentre",
+            "id": "1245923843119575041"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 27,
+            "end": 33,
+            "probability": 0.7623,
+            "type": "Product",
+            "normalized_text": "Spotify"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1506951466296442881"
+        }
+      ],
+      "text": "RT @AdmsCentre: Do you use Spotify? Take part in a brief online study where you browse music recommendations and answer a set of questions.\u2026",
+      "id": "1507227280677883910",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "AdmsCentre",
+            "id": "1245923843119575041"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1507222369210757124"
+        }
+      ],
+      "text": "RT @AdmsCentre: We've experienced so much growth since we commenced in August 2020! \ud83d\ude4c\n\nLearn more about our team of leading researchers and\u2026",
+      "id": "1507224215426330624",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "time_wiley",
+            "id": "22585506"
+          },
+          {
+            "start": 93,
+            "end": 108,
+            "username": "RMIT_HealthLab",
+            "id": "1154272182056304640"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1505895766078136320"
+        }
+      ],
+      "text": "RT @time_wiley: A couple of weeks ago, my Programming Autonomous Robots students visited the @RMIT_HealthLab to see a demo of Spot! I'm exc\u2026",
+      "id": "1506127100964909060",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "women_in_ai",
+            "id": "871111526282911746"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1503506258770292737"
+        }
+      ],
+      "text": "RT @women_in_ai: We are thrilled to introduce you to the very talented finalists in the AI in Defence and Intelligence category sponsored b\u2026",
+      "id": "1505073742237810688",
+      "author_id": "93781753"
+    },
+    {
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 15,
+            "username": "women_in_ai",
+            "id": "871111526282911746"
+          }
+        ]
+      },
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1505055417662988292"
+        }
+      ],
+      "text": "RT @women_in_ai: \ud83d\udeceAI in INNOVATION \ud83d\udece\n\nWe are thrilled to introduce you to the finalists in the AI in Innovation category sponsored by @Deak\u2026",
+      "id": "1505073431595085830",
+      "author_id": "93781753"
+    }
+  ],
+  "meta": {
+    "result_count": 100,
+    "newest_id": "1554828615548022785",
+    "oldest_id": "1505073431595085830",
+    "next_token": "7140dibdnow9c7btw420ju3ojeifassbixyuflw88ozsg"
+  }
+}
