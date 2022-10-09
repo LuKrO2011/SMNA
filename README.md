@@ -6,9 +6,8 @@ Some files require a twitterClient with a bearerToken. You can use and modify th
 
 ## Used versions
 Python version: Python 3.9.13
-Used modules:
+Used modules: Go to edit mode for visability
 
-Name                      Version                   Build  Channel
 anaconda-client           1.10.0           py39haa95532_0
 anaconda-navigator        2.2.0            py39haa95532_0
 anyio                     3.5.0            py39haa95532_0
