@@ -75,42 +75,55 @@ for ego in egos:
     print("Followers downloaded: " + str(len(followers)))
 
     # Remove not interesting fields
-#     for follower in followers:
-#         for key in list(follower.keys()):
-#             if key not in user_fields_of_interest:
-#                 delattr(follower, key)
-#
-#     # Construct followers graph
-#     for user in followers:
-#         follower_name = user.username
-#         followers_count = user.public_metrics.get('followers_count')
-#         following_count = user.public_metrics.get('following_count')
-#         tweet_count = user.public_metrics.get('tweet_count')
-#         ego_graph.add_node(follower_name, followers_count=followers_count, following_count=following_count,
-#                            tweet_count=tweet_count, color_id=calculate_importance(followers_count))
-#         ego_graph.add_edge(ego_username, follower_name)
-#
-#     # Get users that the ego follows
-#     following = []
-#     for tweet in tweepy.Paginator(client.get_users_following, id=ego_id, max_results=maxResults,
-#                                   user_fields=all_user_fields).flatten(limit=maxResults):
-#         following.append(tweet)
-#
-#     # Construct following graph
-#     for user in following:
-#         following_name = user.username
-#         followers_count = user.public_metrics.get('followers_count')
-#         following_count = user.public_metrics.get('following_count')
-#         tweet_count = user.public_metrics.get('tweet_count')
-#         ego_graph.add_node(following_name, followers_count=followers_count, following_count=following_count,
-#                            tweet_count=tweet_count, color_id=calculate_importance(followers_count))
-#         ego_graph.add_edge(following_name, ego_username)
-#
-# # Store the graph
-# with open(output_filename, 'wb') as fOut:
-#     nx.write_graphml(ego_graph, fOut)
-#
-# print("Done!")
+    for follower in followers:
+        for key in list(follower.keys()):
+            if key not in user_fields_of_interest:
+                delattr(follower, key)
+
+    # Construct followers graph
+    for user in followers:
+        follower_name = user.username
+        followers_count = user.public_metrics.get('followers_count')
+        following_count = user.public_metrics.get('following_count')
+        tweet_count = user.public_metrics.get('tweet_count')
+        ego_graph.add_node(follower_name, followers_count=followers_count, following_count=following_count,
+                           tweet_count=tweet_count, color_id=calculate_importance(followers_count))
+        ego_graph.add_edge(ego_username, follower_name)
+
+    # Get users that the ego follows
+    following = []
+    twitterResponse = client.get_users_following(id=ego_id, max_results=100, user_fields=all_user_fields)
+    if twitterResponse.data is not None:
+        for user in twitterResponse.data:
+            following.append(user)
+
+    while len(following) < maxResults:
+        try:
+            twitterResponse = client.get_users_following(id=ego_id, max_results=100, user_fields=all_user_fields)
+        except Exception as e:
+            print(e)
+
+        if twitterResponse.data is not None:
+            for user in twitterResponse.data:
+                following.append(user)
+
+    print("Followers downloaded: " + str(len(following)))
+
+    # Construct following graph
+    for user in following:
+        following_name = user.username
+        followers_count = user.public_metrics.get('followers_count')
+        following_count = user.public_metrics.get('following_count')
+        tweet_count = user.public_metrics.get('tweet_count')
+        ego_graph.add_node(following_name, followers_count=followers_count, following_count=following_count,
+                           tweet_count=tweet_count, color_id=calculate_importance(followers_count))
+        ego_graph.add_edge(following_name, ego_username)
+
+# Store the graph
+with open(output_filename, 'wb') as fOut:
+    nx.write_graphml(ego_graph, fOut)
+
+print("Done!")
 
 
 #%%
