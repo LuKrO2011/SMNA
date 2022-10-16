@@ -23,6 +23,18 @@ def load(filename):
     return datas
 
 
+def add_node(graph, node, **attr):
+    if node not in seen_nodes:
+        graph.add_node(node, **attr)
+        seen_nodes.add(node)
+
+
+def add_edge(graph, edge_from, edge_to):
+    if (edge_from, edge_to) not in seen_edges:
+        graph.add_edge(edge_from, edge_to)
+        seen_edges.add((edge_from, edge_to))
+
+
 # Username of the ego
 input_filename = "most_common_users_filtered.json"
 
@@ -30,7 +42,9 @@ input_filename = "most_common_users_filtered.json"
 output_filename = 'connections.graphml'
 
 # maximum number of results
-maxResults = 100
+max_results = 2
+
+max_results_per_request = 2
 
 # All user fields
 all_user_fields = ["id", "name", "username", "created_at", "description", "location", "entities", "pinned_tweet_id",
@@ -43,7 +57,10 @@ user_fields_of_interest = ["id", "name", "public_metrics"]
 egos = load(input_filename)
 
 # Create graph
-ego_graph = nx.DiGraph()
+graph = nx.DiGraph()
+
+seen_nodes = set()
+seen_edges = set()
 
 for ego in egos:
 
@@ -53,18 +70,19 @@ for ego in egos:
     ego_name = ego.get("name")
 
     # Add ego
-    ego_graph.add_node(ego_username)
+    add_node(graph, ego_username)
 
     # Get followers of ego
     followers = []
-    twitterResponse = client.get_users_followers(id=ego_id, max_results=100, user_fields=all_user_fields)
+
+    twitterResponse = client.get_users_followers(id=ego_id, max_results=max_results_per_request, user_fields=all_user_fields)
     if twitterResponse.data is not None:
         for user in twitterResponse.data:
             followers.append(user)
 
-    while len(followers) < maxResults:
+    while len(followers) < max_results:
         try:
-            twitterResponse = client.get_users_followers(id=ego_id, max_results=100, user_fields=all_user_fields)
+            twitterResponse = client.get_users_followers(id=ego_id, max_results=max_results_per_request, user_fields=all_user_fields)
         except Exception as e:
             print(e)
 
@@ -86,20 +104,20 @@ for ego in egos:
         followers_count = user.public_metrics.get('followers_count')
         following_count = user.public_metrics.get('following_count')
         tweet_count = user.public_metrics.get('tweet_count')
-        ego_graph.add_node(follower_name, followers_count=followers_count, following_count=following_count,
-                           tweet_count=tweet_count, color_id=calculate_importance(followers_count))
-        ego_graph.add_edge(ego_username, follower_name)
+        add_node(graph, follower_name, followers_count=followers_count, following_count=following_count,
+                 tweet_count=tweet_count, color_id=calculate_importance(followers_count))
+        add_edge(graph, ego_username, follower_name)
 
     # Get users that the ego follows
     following = []
-    twitterResponse = client.get_users_following(id=ego_id, max_results=100, user_fields=all_user_fields)
+    twitterResponse = client.get_users_following(id=ego_id, max_results=max_results_per_request, user_fields=all_user_fields)
     if twitterResponse.data is not None:
         for user in twitterResponse.data:
             following.append(user)
 
-    while len(following) < maxResults:
+    while len(following) < max_results:
         try:
-            twitterResponse = client.get_users_following(id=ego_id, max_results=100, user_fields=all_user_fields)
+            twitterResponse = client.get_users_following(id=ego_id, max_results=max_results_per_request, user_fields=all_user_fields)
         except Exception as e:
             print(e)
 
@@ -115,15 +133,14 @@ for ego in egos:
         followers_count = user.public_metrics.get('followers_count')
         following_count = user.public_metrics.get('following_count')
         tweet_count = user.public_metrics.get('tweet_count')
-        ego_graph.add_node(following_name, followers_count=followers_count, following_count=following_count,
-                           tweet_count=tweet_count, color_id=calculate_importance(followers_count))
-        ego_graph.add_edge(following_name, ego_username)
+        add_node(graph, following_name, followers_count=followers_count, following_count=following_count,
+                 tweet_count=tweet_count, color_id=calculate_importance(followers_count))
+        add_edge(graph, following_name, ego_username)
 
 # Store the graph
 with open(output_filename, 'wb') as fOut:
-    nx.write_graphml(ego_graph, fOut)
+    nx.write_graphml(graph, fOut)
 
 print("Done!")
 
 
-#%%
