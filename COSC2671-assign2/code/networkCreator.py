@@ -7,11 +7,21 @@ import networkx as nx
 
 client = twitterClient.twitterClient()
 
+
 # Assigns a logarithmic value depending on the follower count
 def calculate_importance(follower_count):
     if follower_count <= 0:
         follower_count = 1
     return math.ceil(math.log10(follower_count))
+
+
+def save(filename, data):
+    with open(filename, 'w') as json_file:
+        for user in data:
+            json.dump(user.data, json_file)
+            json_file.write('\n')
+
+    print("Users successfully stored to: ", output_filename)
 
 
 def load(filename):
@@ -39,12 +49,14 @@ def add_edge(graph, edge_from, edge_to):
 input_filename = "most_common_users_filtered.json"
 
 # Where to store the graph to
-output_filename = 'connections.graphml'
+# output_filename = 'connections.graphml'
+output_dir = "../graph_data"
+output_filename = 'following'
 
 # maximum number of results
-max_results = 2
+max_results = 10
 
-max_results_per_request = 2
+max_results_per_request = 1000
 
 # All user fields
 all_user_fields = ["id", "name", "username", "created_at", "description", "location", "entities", "pinned_tweet_id",
@@ -115,6 +127,12 @@ for ego in egos:
         for user in twitterResponse.data:
             following.append(user)
 
+    print("Followers downloaded: " + str(len(following)))
+
+    filename = output_dir + "/" + output_filename + "_" + ego_username + ".json"
+    save(filename, following)
+    print("Followers stored: " + str(filename))
+
     while len(following) < max_results:
         try:
             twitterResponse = client.get_users_following(id=ego_id, max_results=max_results_per_request, user_fields=all_user_fields)
@@ -144,3 +162,5 @@ with open(output_filename, 'wb') as fOut:
 print("Done!")
 
 
+
+#%%
