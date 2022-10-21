@@ -1,10 +1,15 @@
 # Social Media and Network Analysis
 Contains the edited code for all workshops done as well as all assignments.
 
-Data for assignment 2 can be found here: https://drive.google.com/drive/folders/1qjuDcy16x3MIiTWqiRxF6MGlO3SO7ixN?usp=sharing
+Data for assignment 2 can be found here: 
+https://drive.google.com/drive/folders/1qjuDcy16x3MIiTWqiRxF6MGlO3SO7ixN?usp=sharing
 
 Report document:
+Version 1:
 https://docs.google.com/document/d/1ifTYefUu2NbMoD5GCICe92REGwaMojkGSzBGTc2ChC4/edit?usp=sharing
+
+Version 2:
+https://docs.google.com/document/d/14sEMAzOmouH2XPfR76Vj_BVCf_-ydxqbZQ-RxSaBrmk/edit?usp=sharing
 
 IMPORTANT:
 Some files require a twitterClient with a bearerToken. You can use and modify the demoTwitterClient.py file therefore.
