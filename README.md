@@ -1,10 +1,10 @@
 # Social Media and Network Analysis
 Contains the edited code for all workshops done as well as all assignments.
 
-Data for assignment 2 can be found here: 
+Original data for assignment 2 (files too large for git): 
 https://drive.google.com/drive/folders/1qjuDcy16x3MIiTWqiRxF6MGlO3SO7ixN?usp=sharing
 
-Report document:
+Report document:\
 Version 1:
 https://docs.google.com/document/d/1ifTYefUu2NbMoD5GCICe92REGwaMojkGSzBGTc2ChC4/edit?usp=sharing
 
