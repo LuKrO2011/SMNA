@@ -5,3 +5,5 @@
 /.idea/SMNA.iml
 *.pyc
 **/twitterAPI.py
+.idea/*
+seminar/data/*
